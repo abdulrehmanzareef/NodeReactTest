@@ -1,0 +1,48 @@
+.Login-card{
+  margin: 150px auto;
+  width: 400px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  
+}
+
+.child-card{
+  margin: 50px auto;
+  width: 90%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.login-submit-button{
+  width: 100%;
+}
+
+.add-child-button{
+  float: right;
+  margin: 2%;
+}
+
+.child-form{
+  width: 90%;
+  margin: 20px;
+}
+
+.container-table {
+  padding: 5rem 0rem;
+  margin-top: 2%;
+}
+
+.btn-action{
+  margin-left: 2%;
+}
+
+.delete-alert{
+  position: absolute;
+  left:2%;
+  top: 4%;
+  z-index: 2000;
+  background-color: gray;
+}
+.back-button{
+  margin: 2%;
+}
+
+
